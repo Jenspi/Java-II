@@ -16,5 +16,5 @@ Software Development II Lab work; we write code and then test them with given te
 
 ---
 ### Course Information:
-Fall 2020 @ (The) University of New Orleans
+Fall 2020 @ (The) University of New Orleans\n
 CSCI 2120 (Software Development II) with Dr. Summa
