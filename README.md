@@ -1,6 +1,6 @@
 ## Table of Contents:
 ### HW1: Shapes
-Using a class written by the professor, I wrote classes for three different shapes (a triangle, rectangle, and circle) which inherited his class. This allowed us to "plot" shapes with coordinates. This assignment was more practice with inheritance, as well as the introduction to using javadocs.
+Using a class written by the professor, I wrote classes for three different shapes (a triangle, rectangle, and circle) which inherited his class. This allowed us to "plot" shapes with coordinates. This assignment was more practice with inheritance, as well as an introduction to using javadocs.
 
 ### HW2: Recursion
 This algorithm finds the smallest string, either in an array or given two options. This program, of course, gives us experience with recursion.
