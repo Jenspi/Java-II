@@ -13,6 +13,7 @@ Taking knowledge of how to create a linked list, I was able to create a doubly l
 
 ### lab: 
 Software Development II Lab work; we write code and then test them with given tester files and JUnit.
+
 ---
 ### Course Information:
 Fall 2020 @ (The) University of New Orleans
